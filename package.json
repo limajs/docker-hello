@@ -1,0 +1,20 @@
+{
+  "name": "docker-hello",
+  "version": "0.0.1",
+  "description": "Hello World nodejs app for trying out Docker Cloud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limajs/docker-hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limajs/docker-hello/issues"
+  },
+  "homepage": "https://github.com/limajs/docker-hello#readme"
+}
